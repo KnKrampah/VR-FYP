@@ -1,0 +1,116 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22621.2134; Version 2009; 64bit' Language: 'en' Physical Memory: 8039 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Kweku/Downloads/VR-project1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56651
+Successfully changed project path to: C:/Users/Kweku/Downloads/VR-project1
+C:/Users/Kweku/Downloads/VR-project1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 145.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Kweku/Downloads/VR-project1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   27.20.100.9664
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56816
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002712 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 57.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find bridge dll in registry for Microsoft Visual Studio Tools for Unity for C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.528 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.350 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2284 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.3 MB.
+System memory in use after: 109.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2741.
+Total: 3.041900 ms (FindLiveObjects: 0.285800 ms CreateObjectMapping: 0.136300 ms MarkObjects: 2.497800 ms  DeleteObjects: 0.120200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Comfy chair Mat.mat
+  artifactKey: Guid(2dfe1bfe63b60394cba1c68172767aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Comfy chair Mat.mat using Guid(2dfe1bfe63b60394cba1c68172767aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35c0a6cc7dd48f98ce67898810fcf02') in 0.200084 seconds
+  Import took 0.207268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000811 seconds.
+  path: Assets/Box Mat.mat
+  artifactKey: Guid(ad0543121b247884b81546baacd527bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Box Mat.mat using Guid(ad0543121b247884b81546baacd527bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1146e7ef7f3bfaa436c6a50c00b76389') in 0.025097 seconds
+  Import took 0.030518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Bench text.mat
+  artifactKey: Guid(8871b16da99241149a73350635d6e7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bench text.mat using Guid(8871b16da99241149a73350635d6e7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b5e954ae77a01ec431b36e72b0a4b2b') in 0.019505 seconds
+  Import took 0.026451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Bench.fbx
+  artifactKey: Guid(e1aac0a4092d0794e867e8986910968c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bench.fbx using Guid(e1aac0a4092d0794e867e8986910968c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e444a3543dab7729d612eb9796d1a55f') in 0.156697 seconds
+  Import took 0.163795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Chair Mat 1.mat
+  artifactKey: Guid(9c6cfd0176accf14aa2a377ade8a553c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chair Mat 1.mat using Guid(9c6cfd0176accf14aa2a377ade8a553c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1f2cee9d7e6138632d1d77b07cc75a') in 0.027414 seconds
+  Import took 0.033395 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
