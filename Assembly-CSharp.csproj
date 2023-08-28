@@ -53,6 +53,7 @@
     <UnityVersion>2020.3.0f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\EasySnap\Scripts\Popup.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
@@ -70,8 +71,7 @@
     <Compile Include="Assets\EasySnap\Scripts\SnapRecognize.cs" />
     <Compile Include="Assets\EasySnap\Scripts\RayCastMasks.cs" />
     <Compile Include="Assets\EasySnap\Scripts\DecoratorEditor.cs" />
-    <Compile Include="Assets\EasySnap\Scripts\Popup.cs" />
-    <Compile Include="Assets\SpinAndPopup.cs" />
+    <Compile Include="Assets\Scripts\RotatingObject.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
