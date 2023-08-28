@@ -1,28 +1,31 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
 public class SpinAndPopup : MonoBehaviour
 {
     public float rotationSpeed = 30.0f;
-    public string popupText = "This is a box.";
+    public string popupText = "This is the object's information.";
 
     private bool isMouseOver = false;
-    private Canvas canvas;
+    private bool shouldRotate = false;
+    private Canvas popupCanvas;
     private TextMeshProUGUI popupTextUI;
 
     private void Start()
     {
-        // Get the Canvas and TextMeshPro component
-        canvas = FindObjectOfType<Canvas>();
-        popupTextUI = canvas.GetComponentInChildren<TextMeshProUGUI>();
+        // Create the popup Canvas dynamically
+        popupCanvas = Instantiate(Resources.Load<Canvas>("PopupCanvasPrefab"));
+        popupCanvas.enabled = false; // Hide initially
+
+        // Get the TextMeshPro component from the popup Canvas
+        popupTextUI = popupCanvas.GetComponentInChildren<TextMeshProUGUI>();
+        popupTextUI.text = popupText; // Set initial text
     }
 
     private void Update()
     {
         // Rotate the object
-        if (!isMouseOver)
+        if (shouldRotate)
         {
             transform.Rotate(Vector3.up, rotationSpeed * Time.deltaTime);
         }
@@ -30,28 +33,29 @@ public class SpinAndPopup : MonoBehaviour
 
     private void OnMouseEnter()
     {
-        // Display information when the mouse enters the object's collider
+        // Display information and start rotation when the mouse enters the object's collider
         isMouseOver = true;
-        ShowPopup(popupText);
+        shouldRotate = true;
+        ShowPopup();
     }
 
     private void OnMouseExit()
     {
-        // Hide the information popup when the mouse exits the object's collider
+        // Hide the information popup and stop rotation when the mouse exits the object's collider
         isMouseOver = false;
+        shouldRotate = false;
         HidePopup();
     }
 
-    private void ShowPopup(string text)
+    private void ShowPopup()
     {
-        // Show the information popup by enabling the Canvas and setting the text
-        canvas.enabled = true;
-        popupTextUI.text = text;
+        // Show the information popup by enabling the Canvas
+        popupCanvas.enabled = true;
     }
 
     private void HidePopup()
     {
         // Hide the information popup by disabling the Canvas
-        canvas.enabled = false;
+        popupCanvas.enabled = false;
     }
 }
