@@ -205,3 +205,43 @@ Received Import Request.
 Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c194066b5ddf713208b3818b9611a53a') in 0.114126 seconds
   Import took 0.118973 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 674.705114 seconds.
+  path: Assets/Textures/frosted-glass-texture-thumb21.jpg.png
+  artifactKey: Guid(d452cdaf3c2f04c539624d40428069dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/frosted-glass-texture-thumb21.jpg.png using Guid(d452cdaf3c2f04c539624d40428069dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b8c5f1b2c195d6c00abaa8d349d125') in 0.063798 seconds
+  Import took 0.084247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.604088 seconds.
+  path: Assets/Materials/brick.mat
+  artifactKey: Guid(c7554e26fc3cd4f30905995a1cdf2c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/brick.mat using Guid(c7554e26fc3cd4f30905995a1cdf2c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f3c0f5c07128a3784c52537aa89cb5') in 0.182876 seconds
+  Import took 0.191602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Materials/micro.mat
+  artifactKey: Guid(6682858f5c7d647babf49a64e35fd7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/micro.mat using Guid(6682858f5c7d647babf49a64e35fd7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b436d72362393a1cf38e52f5873682') in 0.018110 seconds
+  Import took 0.023741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003866 seconds.
+  path: Assets/Materials/micro.mat
+  artifactKey: Guid(6682858f5c7d647babf49a64e35fd7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/micro.mat using Guid(6682858f5c7d647babf49a64e35fd7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b436d72362393a1cf38e52f5873682') in 0.007456 seconds
+  Import took 0.016060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.636918 seconds.
+  path: Assets/Materials/glass.mat
+  artifactKey: Guid(d881dfd2e48d442e4967310144b005e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/glass.mat using Guid(d881dfd2e48d442e4967310144b005e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0acded500c8170f6ad489a842ee088fe') in 0.020426 seconds
+  Import took 0.035198 seconds .
+
