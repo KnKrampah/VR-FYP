@@ -245,3 +245,19 @@ Received Import Request.
 Start importing Assets/Materials/glass.mat using Guid(d881dfd2e48d442e4967310144b005e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0acded500c8170f6ad489a842ee088fe') in 0.020426 seconds
   Import took 0.035198 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 845.047681 seconds.
+  path: Assets/Textures/b08649a5a42167b07821a8df5be75a0f.jpg
+  artifactKey: Guid(7c0ccb017f295402da76c4ad19749693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/b08649a5a42167b07821a8df5be75a0f.jpg using Guid(7c0ccb017f295402da76c4ad19749693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305f1f03e2560a74dbd166a73d7b4c29') in 0.582762 seconds
+  Import took 0.654142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.848215 seconds.
+  path: Assets/Materials/roof.mat
+  artifactKey: Guid(d7751bd3f406841a5bc18292319d08e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/roof.mat using Guid(d7751bd3f406841a5bc18292319d08e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78069a06625d2bfc6a216da221256cb2') in 0.032302 seconds
+  Import took 0.056955 seconds .
+
