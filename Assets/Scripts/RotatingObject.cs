@@ -4,8 +4,13 @@ public class RotatingObject : MonoBehaviour
 {
     public float rotationSpeed = 50f;
     public GameObject infoCanvas;
-    private bool isCanvasActive = false;
     private bool isRotating = false;
+
+    private void Start()
+    {
+        // Hide the canvas panel initially
+        infoCanvas.SetActive(false);
+    }
 
     private void Update()
     {
@@ -18,15 +23,11 @@ public class RotatingObject : MonoBehaviour
 
     private void OnMouseDown()
     {
-        // Toggle the canvas and rotation on click
-        ToggleCanvas();
+        // Toggle the rotation on click
         ToggleRotation();
-    }
 
-    private void ToggleCanvas()
-    {
-        isCanvasActive = !isCanvasActive;
-        infoCanvas.SetActive(isCanvasActive);
+        // Toggle the canvas
+        infoCanvas.SetActive(isRotating);
     }
 
     private void ToggleRotation()
