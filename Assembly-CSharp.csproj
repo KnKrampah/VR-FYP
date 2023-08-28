@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3762E068-97F7-2673-CFD2-2EC6B4EE32D5}</ProjectGuid>
+    <ProjectGuid>{A364C828-57E1-002D-B824-D9E45BE0C6EC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,6 +53,7 @@
     <UnityVersion>2020.3.0f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
@@ -69,7 +70,8 @@
     <Compile Include="Assets\EasySnap\Scripts\SnapRecognize.cs" />
     <Compile Include="Assets\EasySnap\Scripts\RayCastMasks.cs" />
     <Compile Include="Assets\EasySnap\Scripts\DecoratorEditor.cs" />
-    <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\EasySnap\Scripts\Popup.cs" />
+    <Compile Include="Assets\SpinAndPopup.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

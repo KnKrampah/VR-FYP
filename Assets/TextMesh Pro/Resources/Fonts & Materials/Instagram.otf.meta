@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6511a28aa44167b41a2ed5d3c28b4b42
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Instagram
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d66b21036cdcd15409cf90c8823f32a5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
