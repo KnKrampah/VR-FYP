@@ -1,0 +1,207 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/obedotu/Documents/GitHub/VR-FYP
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59380
+Successfully changed project path to: /Users/obedotu/Documents/GitHub/VR-FYP
+/Users/obedotu/Documents/GitHub/VR-FYP
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 119.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/obedotu/Documents/GitHub/VR-FYP/Assets
+GfxDevice: creating device client; threaded=0
+2023-08-28 01:45:36.083 Unity[41772:5866889] (null) preferred device: Apple M1 (high power)
+2023-08-28 01:45:36.083 Unity[41772:5866889] Metal devices available: 1
+2023-08-28 01:45:36.083 Unity[41772:5866889] 0: Apple M1 (high power)
+2023-08-28 01:45:36.083 Unity[41772:5866889] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56772
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001119 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 46.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.323 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001761 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 44.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.864 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.24 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2284 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.9 MB.
+System memory in use after: 110.1 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2741.
+Total: 4.333875 ms (FindLiveObjects: 0.478917 ms CreateObjectMapping: 0.053250 ms MarkObjects: 3.685417 ms  DeleteObjects: 0.115042 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Materials/micro.mat
+  artifactKey: Guid(6682858f5c7d647babf49a64e35fd7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/micro.mat using Guid(6682858f5c7d647babf49a64e35fd7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbcef3dcc78d0b433ac1cfbb8bbe1229') in 1.002360 seconds
+  Import took 1.040905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.046859 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27ee9400a56c29dcfcfcc1333e3d75e') in 0.513711 seconds
+  Import took 0.528625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.396845 seconds.
+  path: Assets/FreeLabAssets/Textures/Flask_01.tga
+  artifactKey: Guid(f68d7052f7e96437cb9b2bb9f8572a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeLabAssets/Textures/Flask_01.tga using Guid(f68d7052f7e96437cb9b2bb9f8572a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad3e73ac8367e2b28b1bb3fd54fab4a') in 0.359265 seconds
+  Import took 0.365214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef547e604f9c76e8d2b1bad6dcd79497') in 1.182574 seconds
+  Import took 1.188650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/FreeLabAssets/Textures/Mana_Net.tga
+  artifactKey: Guid(9722f513cefe64f74bdf375931311104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeLabAssets/Textures/Mana_Net.tga using Guid(9722f513cefe64f74bdf375931311104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605868aed31312dc6cae3fb9114a7bbd') in 0.036609 seconds
+  Import took 0.042553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/FreeLabAssets/Textures/Mana_Green.tga
+  artifactKey: Guid(bc7b190aa39d2456bbd9b12873ba8fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeLabAssets/Textures/Mana_Green.tga using Guid(bc7b190aa39d2456bbd9b12873ba8fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fabd0c4f4ea1dab4b0e9a2783049b76') in 0.007891 seconds
+  Import took 0.015059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002716 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7b026d7eb27ba79ec0f96f4fe45e1f') in 0.308601 seconds
+  Import took 0.313874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/FreeLabAssets/Textures/Pipette_Mtl.tga
+  artifactKey: Guid(01b3d826b57cd4958944b2d3f053126a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeLabAssets/Textures/Pipette_Mtl.tga using Guid(01b3d826b57cd4958944b2d3f053126a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20bb88afda50df59d5de13e8e548b86b') in 0.006951 seconds
+  Import took 0.012212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/FreeLabAssets/Textures/Pipette_Alb.tga
+  artifactKey: Guid(8942adacda12f47e2a72969825774394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeLabAssets/Textures/Pipette_Alb.tga using Guid(8942adacda12f47e2a72969825774394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80edc5b63239be8175f7e60f865e4d07') in 0.007296 seconds
+  Import took 0.012806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/FreeLabAssets/Textures/Pipette_N.tga
+  artifactKey: Guid(f253397bbf9164cfda87b08f7c0f6394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeLabAssets/Textures/Pipette_N.tga using Guid(f253397bbf9164cfda87b08f7c0f6394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d6c34210253ea3b9e14428f74361424') in 0.007542 seconds
+  Import took 0.013290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/FreeLabAssets/Textures/Pipette_Em.tga
+  artifactKey: Guid(dbb91fe86a9de46fe935cf7068013117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeLabAssets/Textures/Pipette_Em.tga using Guid(dbb91fe86a9de46fe935cf7068013117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a724a5c2188f4cf78f115e6a5ef03181') in 0.005306 seconds
+  Import took 0.009815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd37db4bf3a7b1ed617ad447ccf2851d0') in 0.141277 seconds
+  Import took 0.146009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/FreeLabAssets/Textures/SB_Glass_Mtl.tga
+  artifactKey: Guid(593c47fa3dd924483b36b5132d03df2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeLabAssets/Textures/SB_Glass_Mtl.tga using Guid(593c47fa3dd924483b36b5132d03df2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c483d50c67473cc8f751e45e799b2f') in 0.006311 seconds
+  Import took 0.010086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/FreeLabAssets/Textures/Mana_FX.tga
+  artifactKey: Guid(cc1af833400504e3188b655b2a82f97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeLabAssets/Textures/Mana_FX.tga using Guid(cc1af833400504e3188b655b2a82f97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591122585b09538031f5da9daeb95580') in 0.008137 seconds
+  Import took 0.013274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 385.564574 seconds.
+  path: Assets/Materials/brick.mat
+  artifactKey: Guid(c7554e26fc3cd4f30905995a1cdf2c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/brick.mat using Guid(c7554e26fc3cd4f30905995a1cdf2c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8163695ffe8974612e084f908bb311fd') in 0.032320 seconds
+  Import took 0.044238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.295704 seconds.
+  path: Assets/AllSkyFree/Cold Night/Cold Night.mat
+  artifactKey: Guid(9af23ba5fa5364ff598888460e0e2759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cold Night/Cold Night.mat using Guid(9af23ba5fa5364ff598888460e0e2759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a11bc1cb1f51cf92df01826b57ba93') in 0.485771 seconds
+  Import took 0.498805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c194066b5ddf713208b3818b9611a53a') in 0.114126 seconds
+  Import took 0.118973 seconds .
+
