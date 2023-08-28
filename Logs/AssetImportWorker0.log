@@ -261,3 +261,43 @@ Received Import Request.
 Start importing Assets/Materials/roof.mat using Guid(d7751bd3f406841a5bc18292319d08e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78069a06625d2bfc6a216da221256cb2') in 0.032302 seconds
   Import took 0.056955 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 631.153935 seconds.
+  path: Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png
+  artifactKey: Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png using Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb07403b0e0e564346ed4be28b70717') in 0.069698 seconds
+  Import took 0.139275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 418.316647 seconds.
+  path: Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png
+  artifactKey: Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png using Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b3d24c88bfd4037c4f6c39a8c0e9e11') in 0.354475 seconds
+  Import took 0.417941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.587870 seconds.
+  path: Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png
+  artifactKey: Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png using Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778991d9f67bba6be86eea885889d90b') in 0.063907 seconds
+  Import took 0.123320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.339412 seconds.
+  path: Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png
+  artifactKey: Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png using Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a002f8dbd9b45f985feac0cc1981c0cd') in 0.041422 seconds
+  Import took 0.054492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.203041 seconds.
+  path: Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png
+  artifactKey: Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elements/highly-flammable-labels-chip-regulation-labels-p1256-47153_image.jpg.png using Guid(a11b42e42e81c47fda6030453fa17d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c449b271018ac86772ed3945c53f8bd2') in 0.050282 seconds
+  Import took 0.065027 seconds .
+
