@@ -53,24 +53,9 @@
     <UnityVersion>2020.3.0f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\D.A. Assets\Figma Converter for Unity\Scripts\Editor\FCU_WindowEditor.cs" />
-    <Compile Include="Assets\D.A. Assets\Figma Converter for Unity\Scripts\Editor\AssetPatcher.cs" />
-    <Compile Include="Assets\D.A. Assets\Shared\Editor\FontAtlasGenerator.cs" />
-    <Compile Include="Assets\D.A. Assets\Shared\Editor\DA_GUI_Editor.cs" />
     <Compile Include="Assets\StarterAssets\Editor\FirstPersonStarterAssetsDeployMenu.cs" />
     <Compile Include="Assets\StarterAssets\Editor\StarterAssetsDeployMenu.cs" />
-    <Compile Include="Assets\D.A. Assets\Figma Converter for Unity\Scripts\Editor\FCU_MetaEditor.cs" />
-    <Compile Include="Assets\D.A. Assets\Shared\Editor\Coroutine\EditorCoroutineUtil.cs" />
-    <Compile Include="Assets\D.A. Assets\Figma Converter for Unity\Scripts\Editor\FCU_Editor.cs" />
-    <Compile Include="Assets\D.A. Assets\Figma Converter for Unity\Scripts\Editor\AssetFinder.cs" />
-    <Compile Include="Assets\D.A. Assets\Figma Converter for Unity\Scripts\Editor\FCU_ConfigEditor.cs" />
     <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
-    <Compile Include="Assets\D.A. Assets\Figma Converter for Unity\Scripts\Editor\EditorTools.cs" />
-    <Compile Include="Assets\D.A. Assets\Shared\Editor\Coroutine\EditorCoroutine.cs" />
-    <Compile Include="Assets\D.A. Assets\Shared\Editor\GameViewUtils.cs" />
-    <Compile Include="Assets\D.A. Assets\Shared\Editor\Coroutine\EditorWindowCoroutineExtension.cs" />
-    <Compile Include="Assets\D.A. Assets\Shared\Editor\HandleDefine.cs" />
-    <Compile Include="Assets\D.A. Assets\Shared\Editor\Coroutine\EditorWaitForSeconds.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\StarterAssets\Editor\PackageChecker\StarterAssetsPackageChecker.dll" />
