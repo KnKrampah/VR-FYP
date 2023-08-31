@@ -12,8 +12,11 @@ public class MainMenu : MonoBehaviour
 
     public void Quit()
     {
-        Debug.Log("QUIT");
         Application.Quit();
     }
 
+    public void Quiz()
+    {
+        SceneManager.LoadScene(2);
+    }
 }
