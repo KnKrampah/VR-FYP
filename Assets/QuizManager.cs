@@ -66,17 +66,11 @@ public class QuizManager : MonoBehaviour
 
     void generateQuestion()
     {
-        if (QnA.Count > 0)
-        {
+       
             currentQuestion = Random.Range(0, QnA.Count);
 
             QuestionTxt.text = QnA[currentQuestion].Question;
-            SetAnswers();
-        }
-        else
-        {
-            Debug.Log("Out of Questions");
-            GameOver();
-        }
+            
+       
     }
 }

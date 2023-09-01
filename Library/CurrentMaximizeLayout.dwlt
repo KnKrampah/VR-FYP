@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 771
-  m_MinSize: {x: 677, y: 471}
-  m_MaxSize: {x: 14000, y: 14021}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 1678
+  controlID: 3331
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 0
     width: 1119.2
     height: 771
-  m_MinSize: {x: 402, y: 471}
-  m_MaxSize: {x: 10000, y: 14021}
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 1679
+  controlID: 3332
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,10 +161,10 @@ MonoBehaviour:
     y: 0
     width: 1119.2
     height: 500
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 1680
+  controlID: 3333
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,9 +220,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8e440000
-      m_LastClickedID: 17550
-      m_ExpandedIDs: 42fbffffa4440000e8440000
+      m_SelectedIDs: 726a0000
+      m_LastClickedID: 27250
+      m_ExpandedIDs: 36ecffffcaf1ffff1cf5ffff6cf6fffff0faffff78650000a46a0000166b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -311,9 +311,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1920, y: 1080, z: 0}
+    m_Target: {x: 1982.5735, y: 1226.6844, z: -102.737305}
     speed: 2
-    m_Value: {x: 1920, y: 1080, z: 0}
+    m_Value: {x: 1964.9767, y: 1225.3938, z: -98.194405}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -364,9 +364,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2202.9072
+    m_Target: 1205.1305
     speed: 2
-    m_Value: 2202.9072
+    m_Value: 1261.9167
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -520,22 +520,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/StarterAssets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/StarterAssets
+  - Assets/Scenes
   m_LastFoldersGridSize: 57
   m_LastProjectPath: C:\Users\Kweku\Downloads\VR-FYP
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 170}
-    m_SelectedIDs: 74450000
-    m_LastClickedID: 17780
-    m_ExpandedIDs: 0000000046450000484500004a4500004c4500004e4500005045000000ca9a3b
+    scrollPos: {x: 0, y: 222}
+    m_SelectedIDs: 504d0000
+    m_LastClickedID: 19792
+    m_ExpandedIDs: 00000000084d00000a4d00000c4d00000e4d0000104d0000124d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -563,7 +563,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000046450000484500004a4500004c4500004e4500005045000000ca9a3b
+    m_ExpandedIDs: 00000000084d00000a4d00000c4d00000e4d0000104d0000124d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -588,8 +588,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 8e440000
-    m_LastClickedInstanceID: 17550
+    m_SelectedInstanceIDs: 726a0000
+    m_LastClickedInstanceID: 27250
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 1e0f00009a120000e00e0000ac320000c6110000823100006a31000066310000865d000064650000366f0000a87100000000000090720000a27200004a780000
     m_RenameOverlay:
@@ -678,7 +678,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 295.67
+  m_LastVerticalScrollValue: 0.7999878
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
